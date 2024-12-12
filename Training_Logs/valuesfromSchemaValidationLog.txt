@@ -1,0 +1,238 @@
+2020-02-19/16:23:59		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 24
+
+2020-02-19/16:24:54		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 24
+
+2020-02-19/16:30:19		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 24
+
+2020-02-19/16:33:54		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 24
+
+2020-02-19/16:37:02		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 24
+
+2020-02-19/16:50:10		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 24
+
+2020-02-19/16:53:17		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 24
+
+2020-02-19/16:56:35		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2020-02-19/17:26:23		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2020-02-19/17:28:32		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2020-02-19/17:29:21		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2020-02-19/17:32:06		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2020-02-19/17:35:13		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2020-02-19/17:47:57		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 24
+
+2020-02-19/18:49:21		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 24
+
+2020-02-19/18:50:04		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 24
+
+2020-04-12/21:45:57		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/18:43:13		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/18:43:33		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/18:45:29		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/18:45:30		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/18:45:46		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/18:45:47		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/18:45:58		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/18:47:24		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/18:47:25		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/18:47:26		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/18:47:26		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/18:47:27		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/18:47:36		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/18:47:38		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/18:47:38		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/18:47:39		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/18:47:39		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/18:47:39		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/18:47:39		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/18:47:42		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/18:50:59		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/18:51:07		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/18:51:08		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/18:51:15		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/18:51:16		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/18:51:27		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/18:51:35		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/18:51:36		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/18:51:36		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/18:51:36		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/18:51:44		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/18:51:44		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/18:51:45		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/18:51:45		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/18:52:19		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/18:52:26		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/18:53:06		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/19:11:25		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/19:11:26		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/19:11:26		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/19:11:44		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/19:11:45		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/19:11:46		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/19:11:46		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/19:12:23		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/19:12:36		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/19:12:48		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/19:18:49		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/19:30:20		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/19:30:22		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/19:30:42		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/19:31:09		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/19:31:10		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/19:31:11		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/20:00:10		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/20:00:11		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/20:00:12		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/20:00:13		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/20:00:13		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/20:00:14		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/20:00:14		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/20:00:15		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/20:00:15		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/20:00:15		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/20:00:15		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/20:00:33		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/20:00:49		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/20:00:57		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/20:01:05		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/20:01:06		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/20:01:18		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/20:01:20		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/20:01:34		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/20:01:34		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/20:01:34		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/20:01:35		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/20:01:35		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/20:01:35		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/20:01:35		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/20:02:25		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/20:02:25		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/20:02:48		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/20:02:49		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/20:02:49		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/20:02:50		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/20:02:50		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/20:02:50		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/20:02:50		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/20:03:24		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/20:03:41		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/20:07:38		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/20:07:48		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/20:15:05		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/20:25:55		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 24
+
+2024-12-11/20:26:40		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 24
+
+2024-12-11/20:33:53		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/20:34:11		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/20:34:24		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/20:49:32		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+2024-12-11/20:49:43		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 24
+
+2024-12-11/20:51:27		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 24
+
+2024-12-11/21:05:02		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
